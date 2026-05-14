@@ -1,3 +1,3 @@
 # TSCTeacher.github.io
 
-<iframe src="build/web/index.html" width="100%" height="100%"></iframe>
+<iframe src="build/web/index.html" width="1080" height="720"></iframe>
