@@ -13,3 +13,8 @@ layout: default
 <a href="https://tscteacher.github.io/build/web/index.html">
   <img src="images/ShootTheFruitLogo.png">
 </a>
+
+[NEW Shoot The Fruit](shoot/build/web/index.html).
+<a href="https://tscteacher.github.io/shoot/build/web/index.html">
+  <img src="images/ShootTheFruitLogo.png">
+</a>
