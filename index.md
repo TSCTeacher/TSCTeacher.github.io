@@ -20,8 +20,8 @@ layout: default
   <img src="images/ShootTheFruitLogo.png">
 </a>
 
-[Click to Play Flappy Bird](flappy/build/web/index.html).
+[Click to Play Flappy Bird](build/web/index.html).
 
-<a href="https://tscteacher.github.io/flappy/build/web/index.html">
+<a href="https://tscteacher.github.io/build/web/index.html">
   <img src="images/ShootTheFruitLogo.png">
 </a>
