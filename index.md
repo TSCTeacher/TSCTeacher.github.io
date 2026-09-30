@@ -14,9 +14,9 @@ layout: default
   <img src="images/ShootTheFruitLogo.png">
 </a>
 
-[NEW Shoot The Fruit](Flappy_Bird/build/web/index.html).
+[NEW Shoot The Fruit](test/build/web/index.html).
 
-<a href="https://tscteacher.github.io/Flapy_Bird/build/web/index.html">
+<a href="https://tscteacher.github.io/test/build/web/index.html">
   <img src="images/ShootTheFruitLogo.png">
 </a>
 
